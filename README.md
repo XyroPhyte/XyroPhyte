@@ -17,7 +17,7 @@
 
 <h3 align="left">About Me</h3>
 
-> I'm a 17-year-old male who got into programming fairly recently. I've seen my friends make cool things with it, so it got me interested! I started with making Discord Bots using JavaScript but recently moved on to Minecraft Plugin development using Java and Spigot API. You can get in touch with me via [Discord](https://discord.gg/MmqXcebnxC) or Twitter, although I am very inactive on Twitter. My Discord is XyroPhyte#0420
+> I'm a 17-year-old male who got into programming fairly recently. I've seen my friends make cool things with it, so it got me interested! I started with making Discord Bots using JavaScript but recently moved on to Minecraft Plugin development using Java and Spigot API. You can get in touch with me via [Discord](https://discord.gg/MmqXcebnxC) or Twitter, although I am very inactive on Twitter. My Discord is **XyroPhyte#0420**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
