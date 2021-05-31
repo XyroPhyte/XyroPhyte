@@ -6,15 +6,27 @@
 <h3 align="left">Info</h3>
 
 - 🔭 I’m currently working on [Sxift](https://github.com/XyroPhyte/SxiftSpigotPlugin)
-
 - 🌱 I’m currently learning **Java and Spigot API**
-
 - ⚡ Fun fact **I love cats and play Minecraft!**
+
+<h3 align="left">Projects</h3>
+
+- [Colour Guessing Game](https://github.com/XyroPhyte/Color-Game)
+- [Flappy Bird](https://github.com/XyroPhyte/FlappyBird)
+- [Gravity Ball](https://github.com/XyroPhyte/GravityBall)
+
+<h3 align="left">About Me</h3>
+> I'm a 17-year-old male who got into programming fairly recently.
+> I've seen my friends make cool things with it, so it got me interested!
+> I started with making Discord Bots using JavaScript but recently moved on to
+> Minecraft Plugin development using Java and Spigot API.
+> You can get in touch with me via [Discord](https://discord.gg/MmqXcebnxC) or Twitter, although I am very inactive on Twitter.
+> My Discord is XyroPhyte#0420
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
-<a href="https://twitter.com/xQC22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="xQC22" height="30" width="40" /></a>
-<a href="https://discord.gg/MmqXcebnxC" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg" alt="MmqXcebnxC" height="30" width="40" /></a>
+<a href="https://discord.gg/MmqXcebnxC" target="blank"><img align="center" src="https://i.imgur.com/O3OesSw.png" alt="MmqXcebnxC" height="30" width="25" /></a>
+<a href="https://twitter.com/xQC22" target="blank"><img align="center" src="https://i.imgur.com/lgY0ieK.png" alt="xQC22" height="35" width="35" /></a>
 </p>
 
 
