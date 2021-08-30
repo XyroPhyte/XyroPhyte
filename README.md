@@ -12,8 +12,8 @@
 <h3 align="left">Projects</h3>
 
 - [Colour Guessing Game](https://github.com/XyroPhyte/Color-Game)
-- [Flappy Bird](https://github.com/XyroPhyte/FlappyBird)
-- [Gravity Ball](https://github.com/XyroPhyte/GravityBall)
+- [LightFly](https://github.com/XyroPhyte/LightFly)
+- [slashSuicide](https://github.com/XyroPhyte/slashSuicide)
 
 <h3 align="left">About Me</h3>
 
