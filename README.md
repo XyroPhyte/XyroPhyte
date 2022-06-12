@@ -5,9 +5,9 @@
 
 <h3 align="left">Info</h3>
 
-- 🔭 I’m currently working on [Sxift](https://github.com/XyroPhyte/SxiftSpigotPlugin)
-- 🌱 I’m currently learning **Java and Spigot API**
-- ⚡ Fun fact **I love cats and play Minecraft!**
+- 🔭 I’m currently working on [Nothing](https://youtu.be/dQw4w9WgXcQ)
+- 🌱 I’m currently learning **C**
+- ⚡ Fun fact **Am Gamer!**
 
 <h3 align="left">Projects</h3>
 
